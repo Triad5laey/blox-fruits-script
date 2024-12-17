@@ -98,7 +98,6 @@ The script provides a **visually stunning interface** with the following compone
 ## 💬 **Feedback & Support**
 
 Have any questions or suggestions? Reach out here:
-- **🗨️ GitHub Issues**: Report bugs or feature requests.
 - **🔗 Contribute**: Fork the repo and submit a pull request.
 
 > Let’s improve this together!
