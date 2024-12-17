@@ -1,10 +1,11 @@
-# #️⃣ **Blox Fruits Script**  
 
-![Blox Fruits](https://via.placeholder.com/728x90.png?text=Blox+Fruits+Script)
+
+# 🔥 **Blox Fruits Script - Unlock Your Full Potential!** 🎮🎯
 
 Welcome to the **Blox Fruits Script**! This script is designed to enhance your *Blox Fruits* gaming experience with powerful, efficient, and secure features. 
 
 ---
+![bloxnew](https://github.com/user-attachments/assets/4aaac961-4ae7-4047-9a72-5ca2a0f1dae0)
 
 ## 🚀 **Features**
 
@@ -65,10 +66,7 @@ The script provides a **visually stunning interface** with the following compone
 
 ## 📥 **How to Install**
 
-```bash
-# Clone this repository
-git clone https://github.com/your-username/blox-fruits-script.git
-```
+
 
 1. **Download the Script**
 2. **Execute the Script** - Use a trusted executor (Synapse X, Krnl, etc.).
